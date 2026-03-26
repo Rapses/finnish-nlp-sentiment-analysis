@@ -138,7 +138,7 @@ python finnish_nlp_sentiment.py
 
 ## About
 
-**Rapses** — Data Scientist | BSc Mathematics | MBA International Business
+**Rapses** — Data Scientist | MSc Mathematics | MBA International Business
 
 Specialising in Finnish and Nordic market data analysis.
 Writing about data science at Medium.
